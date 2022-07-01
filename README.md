@@ -1,6 +1,6 @@
 # Same day Neapolitan pizza dough
 
-A recipe for same day Neapolitan pizza dough. Recipe will be for 5 12" pizzas.
+A recipe for same day Neapolitan pizza dough. Recipe will be for 4 12" pizzas.
 
 ###### Ingredients:
 595gr Tipo 00 flour 
